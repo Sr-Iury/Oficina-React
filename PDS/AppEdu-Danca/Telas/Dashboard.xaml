@@ -108,9 +108,9 @@
             </Button>
         </StackPanel>
         <Border Grid.Column="1" Background="#f8e2cf"></Border>
-        <TextBlock Text="Academia de Dança Bolshoi"
+        <TextBlock Text="Academia De Dança Bolshoi"
                        FontSize="50" 
-                       HorizontalAlignment="Center" Margin="0,30,0,342"
+                       HorizontalAlignment="Center" Margin="0,30,0,343"
                    Grid.Column="1"/>
         <Image Width="850" Grid.Column="1" Source="../Recursos/Imagens/DancaPar.jpg" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0, 50, 0, 0"></Image>
     </Grid>
