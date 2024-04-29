@@ -1,0 +1,9 @@
+﻿<Application x:Class="AppEdu_Danca.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:AppEdu_Danca"
+             StartupUri="Telas/CadastroUser.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
