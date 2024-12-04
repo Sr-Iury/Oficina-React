@@ -1,0 +1,25 @@
+React é uma biblioteca de JavaScript.
+Framework NEXTjs.
+
+Nextjs - Usa React.
+React utiliza COMPONENTIZAÇÃO em sua implementação.
+React agrega uma menor complexidade.
+
+Bibliotecas:
+React
+React Router
+React hook forms
+Yup
+MUI
+React icons
+
+pode haver incompatibilidade entre bibliotecas 
+Pacote/Bibliotecas mesma coisa
+
+CMDs React
+npx create-react-app NomeDoProjeto
+npm init react-app NomeDoProjeto
+cd NomeDoProjeto
+cd code .
+
+public - Designa a armazenamento de Mídias.
