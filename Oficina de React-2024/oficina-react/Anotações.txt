@@ -25,3 +25,7 @@ cd code .
 public - Designa a armazenamento de Mídias.
 
 MUI - Bibliotecas de componentes https://mui.com/
+
+Hook --> Funções que o próprio rect oferece FUNÇÕES
+
+MUI - Letra maiscula maior

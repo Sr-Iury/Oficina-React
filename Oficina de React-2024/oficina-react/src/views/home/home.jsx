@@ -2,12 +2,12 @@ import { Typography } from "@mui/material"
 import { UICard } from "../../components/ui/card"
 
 
-export const Home = () => {
+export const HomeView = () => {
    return (
       <UICard>
          <Typography variant="h5" >
-            Bem vindo ao meu site
+            Bem vindo a página home
          </Typography>
       </UICard>
-   )
+   )    
 }

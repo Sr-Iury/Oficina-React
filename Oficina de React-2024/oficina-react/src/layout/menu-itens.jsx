@@ -5,6 +5,7 @@ import ListItemButton from '@mui/material/ListItemButton';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import { HiMiniHome } from "react-icons/hi2";
 import { paths } from '../router/paths';
+import { RxComponent2 } from "react-icons/rx";
 
 export const MenuItens = () => {
 
@@ -13,6 +14,11 @@ export const MenuItens = () => {
             name: 'Home',
             path: paths.home,
             icon: <HiMiniHome />,
+        },
+        {
+            name: 'Contador',
+            path: paths.contador,
+            icon: <RxComponent2 />,
         },
     ]
 

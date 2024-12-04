@@ -105,7 +105,7 @@ export function AppLayout({ children }) {
                         <MenuIcon />
                     </IconButton>
                     <Typography variant="h6" noWrap component="div">
-                        MEU APP
+                        Site do Iury Fim da Silva
                     </Typography>
                 </Toolbar>
             </AppBar>
